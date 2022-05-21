@@ -30,7 +30,7 @@
   </distributionManagement>
 
   <build>
-   <finalname>Dynamic-Javascript-Calculator<finalname>
+	  <finalName>Dynamic-Javascript-Calculator</finalName>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
